@@ -25,7 +25,7 @@ github_username:  mssjappjwt
 markdown: kramdown
 theme: minima
 gems:
-  - jekyll-redirect-from
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
